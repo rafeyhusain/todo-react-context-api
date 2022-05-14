@@ -1,0 +1,15 @@
+.card-title {
+  padding: 10px;
+  margin-bottom: 3px;
+  background-color: #eee;
+  width: 87%;
+  float: left;
+}
+
+.card-x {
+  padding: 10px;
+  margin-bottom: 3px;
+  background-color: #eee;
+  float: left;
+  cursor: pointer;
+}

@@ -1,0 +1,6 @@
+.container {
+  border: #ccc;
+  border-width: 1px;
+  border-style: solid;
+  width: 30%;
+}

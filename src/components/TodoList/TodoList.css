@@ -1,0 +1,5 @@
+.card-container {
+  overflow-y: auto;
+  height: 150px;
+  width: 100%;
+}
