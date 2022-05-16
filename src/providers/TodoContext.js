@@ -1,5 +1,4 @@
 import { useState, createContext } from 'react'
-import TodoService from '../services/TodoService';
 
 export const TodoContext = createContext()
 
