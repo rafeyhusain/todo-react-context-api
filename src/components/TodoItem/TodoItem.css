@@ -9,7 +9,12 @@
 .card-x {
   padding: 10px;
   margin-bottom: 3px;
-  background-color: #eee;
+  background-color: #ddd;
   float: left;
   cursor: pointer;
+}
+
+.card-x:hover {
+  background-color: red;
+  color: white;
 }
